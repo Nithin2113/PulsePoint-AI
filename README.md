@@ -157,7 +157,7 @@ Contributions are welcome! Feel free to:
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/nithin2113)
+- GitHub: [@nithin2113](https://github.com/nithin2113)
 
 ## 🙏 Acknowledgments
 
